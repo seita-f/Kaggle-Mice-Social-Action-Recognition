@@ -1,4 +1,4 @@
-# Mice Social Action Recognition (But NOT computer vision)
+# Mice Social Action Recognition
 The goal of this competition is to accurately classify mouse behavior—covering more than 30 social and non-social actions—from video recordings. The challenge lies in the diversity of the data: the videos come from many different laboratory setups and are tracked using different tools. We must make the most of this heterogeneous training data to successfully classify behaviors in new videos.
 The dataset contains over 400 hours of footage collected across more than 20 behavioral recording systems, all annotated frame-by-frame by expert human labelers. <br>
 
