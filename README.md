@@ -4,3 +4,4 @@ The dataset contains over 400 hours of footage collected across more than 20 beh
 <img width="921" height="491" alt="task-desc" src="https://github.com/user-attachments/assets/9410d069-fc0c-4d26-b4f7-48ae87538412" />
 ## Visualization
 <img src="https://github.com/user-attachments/assets/b18987b8-ddde-42a2-8dbd-d6c4cc1fbd3d" width="600"/>
+<img src="https://github.com/user-attachments/assets/231aa23f-6e87-4390-adb7-8cca67ab9828" width="600"/>
