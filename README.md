@@ -3,3 +3,4 @@ The goal of this competition is to accurately classify mouse behavior—covering
 The dataset contains over 400 hours of footage collected across more than 20 behavioral recording systems, all annotated frame-by-frame by expert human labelers. <br>
 
 <img width="921" height="491" alt="task-desc" src="https://github.com/user-attachments/assets/9410d069-fc0c-4d26-b4f7-48ae87538412" />
+https://github.com/user-attachments/assets/f07d2639-cbd8-492a-afb8-4648ae22fe19
